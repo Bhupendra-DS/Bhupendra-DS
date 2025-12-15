@@ -1,6 +1,6 @@
 # Hi, I'm Bhupendra
 
-BTech Computer Science Engineering (Final Year) | Machine Learning Enthusiast | Full-Stack Developer
+BTech Computer Science Engineering Graduate | Data Science & Applied AI Learner | ML Enthusiast
 
 I'm passionate about building real-world machine learning applications that solve practical problems. My focus is on creating production-ready systems that combine robust backend APIs with intuitive frontend interfaces.
 
