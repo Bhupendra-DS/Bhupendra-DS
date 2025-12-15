@@ -6,7 +6,6 @@ I'm passionate about building real-world machine learning applications that solv
 
 ## Currently Working On
 
-### Currently Working On
 - Advancing skills in Data Science and Applied AI  
 - Building end-to-end machine learning applications  
 - Exploring explainable AI and model interpretability  
