@@ -6,10 +6,11 @@ I'm passionate about building real-world machine learning applications that solv
 
 ## Currently Working On
 
-- Completing my BTech in Computer Science Engineering
-- Building end-to-end ML applications with FastAPI and React
-- Exploring explainable AI and model interpretability
-- Developing production-ready systems with proper architecture and documentation
+### Currently Working On
+- Advancing skills in Data Science and Applied AI  
+- Building end-to-end machine learning applications  
+- Exploring explainable AI and model interpretability  
+- Developing production-ready systems with clean architecture and documentation
 
 ## Featured Project
 
