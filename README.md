@@ -44,4 +44,4 @@ I focus on **production-ready solutions**, **scalability**, and **measurable bus
 - **GitHub:** https://github.com/Bhupendra-DS  
 - **LinkedIn:** www.linkedin.com/in/bhupendra-singh-shekhawat-3791372a5 
 - **Email:** bhupendrashekhawat2322@gmail.com  
-- **Portfolio:** portfolio-web-app-azure.vercel.app 
+- **Portfolio:** [portfolio-web-app-azure.vercel.app](https://portfolio-web-app-azure.vercel.app/) 
